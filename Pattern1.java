@@ -16,6 +16,7 @@ public class Pattern1 {
     }
 }
 
+
 /*      1
         22
         333
