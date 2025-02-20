@@ -21,6 +21,8 @@ public class Pattern3 {
     }
 }
      /*
+
+
               1
              212
             32123
